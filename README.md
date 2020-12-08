@@ -12,16 +12,18 @@ Starting From #4/12/2020
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+
+### Stats
+<a href="https://github.com/Aniter-amine/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Aniter-amine/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Aniter-amine/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Aniter-amine/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=Aniter-amine.github.io&theme=material-palenight" />
 </a>
