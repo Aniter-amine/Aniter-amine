@@ -1,18 +1,19 @@
-#### Hi I'm Amine 👋
+# Hi I'm Amine 👋
 A 13 Years Old Student And Noob Devloper!!
 Starting From #4/12/2020
+<br>
+<br>
 
 ### Experience
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/python.png">
-<img align="left" alt="python" src="https://img.icons8.com/color/48/000000/c.png">
-<img align="left" alt="python" src="https://img.icons8.com/color/48/000000/django.png">
-<img align="left" alt="python" src="https://img.icons8.com/color/48/000000/react.png">
+<img align="left" alt="c" src="https://img.icons8.com/color/48/000000/c.png">
+<img align="left" alt="django" src="https://img.icons8.com/color/48/000000/django.png">
 <br>
 <br>
 
 ### Socials
-[<img align="left" alt="izzy#2859 | discord" src="https://img.icons8.com/ios-filled/48/000000/discord-logo.png"/>](https://discord.com/users/521872289231273994)
-[<img align="left" alt="izzywq | linkedin" src="https://img.icons8.com/48/000000/linkedin.png">](https://www.linkedin.com/in/amine-aniter-5859561b8/)
+[<img align="left" alt="EnimaX | discord" src="https://img.icons8.com/ios-filled/48/000000/discord-logo.png"/>](https://discord.com/users/521872289231273994)
+[<img align="left" alt="EnimaX | linkedin" src="https://img.icons8.com/48/000000/linkedin.png">](https://www.linkedin.com/in/amine-aniter-5859561b8/)
 <br>
 <br>
 
