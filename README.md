@@ -8,11 +8,6 @@ Starting From #4/12/2020
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/django.png">
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/react.png">
 
-
-
-
-
-
 ### Stats
 <a href="https://github.com/Aniter-amine/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
