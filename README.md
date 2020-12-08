@@ -24,14 +24,14 @@ Starting From #4/12/2020
 <br>
 
 <a href="https://github.com/Aniter-amine/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=material-blue" />
 </a>
 <br>
 <br>
 
 <a href="https://github.com/Aniter-amine/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=github-readme-stats&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=github-readme-stats&theme=material-blue" />
 </a>    
 <a href="https://github.com/Aniter-amine/anuraghazra.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=Aniter-amine.github.io&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=Aniter-amine.github.io&theme=material-blue" />
 </a>
