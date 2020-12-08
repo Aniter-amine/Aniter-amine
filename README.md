@@ -6,3 +6,22 @@ Starting From #4/12/2020
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/python.png">
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/c.png">
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/django.png">
+<img align="left" alt="python" src="https://img.icons8.com/color/48/000000/react.png">
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=Aniter-amine.github.io&theme=material-palenight" />
+</a>
