@@ -23,17 +23,7 @@ Starting From #4/12/2020
 <br>
 <br>
 
+### Languages I use in my projects:
 <a href="https://github.com/Aniter-amine/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=dark" />
-</a>
-<br>
-<br>
-
-### Languages I use in my projects:
-
-<a href="https://github.com/Aniter-amine/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=github-readme-stats&theme=dark" />
-</a>    
-<a href="https://github.com/Aniter-amine/anuraghazra.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aniter-amine&repo=Aniter-amine.github.io&theme=dark" />
 </a>
