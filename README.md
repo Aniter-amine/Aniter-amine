@@ -17,7 +17,7 @@ Starting From 17/04/2020
 <br>
 <br>
 
-### Stats
+### Github Stats
 <a href="https://github.com/Aniter-amine/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a>
