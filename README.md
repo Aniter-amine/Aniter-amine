@@ -5,7 +5,7 @@ Starting In 17/04/2020
 <br>
 <br>
 
-## Experience:
+## What I Know:
 <img align="left" alt="python" src="https://img.icons8.com/color/48/000000/python.png">
 <img align="left" alt="c" src="https://img.icons8.com/color/48/000000/c.png">
 <img align="left" alt="django" src="https://img.icons8.com/color/48/000000/django.png">
