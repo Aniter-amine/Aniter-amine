@@ -1,4 +1,4 @@
-# Hi I'm Amine 👋
+# Hi I'm Amine <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 A 13 Years Old Student And Noob Devloper!!
 
 Starting In 17/04/2020
