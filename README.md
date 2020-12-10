@@ -2,7 +2,7 @@
 A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **_17/04/2020_** And Iam In 4th Year In Middle School, And I See My Self Passionate And Its **_COOL_** To Code 😄 I Also Like Other Things:
 - 🎯 I'm Currently Learning Web-Dev
 - 💬 I Also Like Anime, Games, Memes
-
+- 💛 I Like Python, C, Djagno, React
 
 <br>
 <br>
@@ -28,7 +28,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 <br>
 <br>
 
-## Github Stats:
+## 📈 Github Stats:
 
 <a href="https://github.com/Aniter-amine/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
@@ -36,7 +36,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 <br>
 <br>
 
-## Languages I use in my projects:
+## ⭐️ Languages I use in my projects:
 
 <a href="https://github.com/Aniter-amine/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=dark" />
