@@ -13,7 +13,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=next.js&logoColor=white&color=212C42)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=212C42)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=212C42)
-![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=212C42)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=212C42)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=212C42)
 
 <br>
