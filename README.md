@@ -3,7 +3,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 - 🎯 I'm Currently Learning Web-Dev
 - 💬 I Also Like Anime, Games, Memes
 - 💛 I Like Python, C, Djagno, React
-
+![](https://komarev.com/ghpvc/?username=Aniter-amine&color=brightgreen)
 <br>
 <br>
 
@@ -30,7 +30,6 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 <br>
 
 ## 📈 Github Stats:
-![](https://komarev.com/ghpvc/?username=Aniter-amine&color=brightgreen)
 <a href="https://github.com/Aniter-amine/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a>
