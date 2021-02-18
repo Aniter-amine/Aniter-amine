@@ -3,7 +3,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 - 🎯 I'm Currently Learning Web-Dev
 - 💬 I Also Like Anime, Games, Memes
 - 💛 I Like Python, C, Djagno, React
-![](https://komarev.com/ghpvc/?username=Aniter-amine&color=brightgreen)
+
 <br>
 <br>
 
@@ -15,6 +15,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=212C42)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=212C42)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=212C42)
+![](https://komarev.com/ghpvc/?username=Aniter-amine&color=212C42)
 
 <br>
 <br>
