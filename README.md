@@ -40,5 +40,5 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 ## ⭐️ Languages I use in my projects:
 
 <a href="https://github.com/Aniter-amine/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniter-amine&layout=compact&show_icons=true&theme=dark&icon_color=blue" />
 </a>
