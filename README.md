@@ -32,7 +32,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 
 ## 📈 Github Stats:
 <a href="https://github.com/Aniter-amine/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark&icon_color=blue" alt="Anurag's github stats" />
 </a>
 <br>
 <br>
