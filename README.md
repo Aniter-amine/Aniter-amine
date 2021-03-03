@@ -26,7 +26,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 [<img align="left" alt="EnimaX | gmail" src="https://img.icons8.com/48/000000/gmail.png">](mailto://retinaenima@gmail.com)
 [<img align="left" alt="EnimaX | linkedin" src="https://img.icons8.com/48/000000/linkedin.png">](https://www.linkedin.com/in/amine-aniter-5859561b8/)
 [<img align="left" alt="EnimaX | linkedin" src="https://img.icons8.com/48/000000/reddit.png">](https://www.reddit.com/user/Aniter-amine)
-
+[<img align="left" alt="EnimaX | linkedin" src="https://img.icons8.com/48/000000/dev.png">](https://www.reddit.com/user/Aniter-amine)
 <br>
 <br>
 
