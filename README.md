@@ -1,4 +1,4 @@
-# Hi I'm Amine <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+# <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> I'm Amine <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **_17/04/2020_** And Iam In 4th Year In Middle School, And I See My Self Passionate And Its **_COOL_** To Code 😄 I Also Like Other Things:
 - 🎯 I'm Currently Learning Web-Dev
 - 💬 I Also Like Anime, Games, Memes
