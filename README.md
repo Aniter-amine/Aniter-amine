@@ -4,6 +4,14 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 - 💬 I Also Like Anime, Games, Memes
 - 💛 I Like Python, C, Djagno, React
 
+<p align="center">
+  <a href="https://github.com/SamTheFam?tab=followers">
+    <img src="https://img.shields.io/github/followers/SamTheFam?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://youtube.com/SamTheFam?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/OM-XUrnWH7o?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
 <br>
 <br>
 
