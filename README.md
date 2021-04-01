@@ -1,11 +1,11 @@
 # <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> <br> I'm Amine <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
 <p align="center">
-  <a href="https://github.com/SamTheFam?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aniter-amine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/Aniter-amine?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aniter-amine?label=Followers&logo=GitHub&style=for-the-badge" />
   </a>
   <a href="https://youtube.com/SamTheFam?sub_confirmation=1">
-    <img src="https://komarev.com/ghpvc/?username=Aniter-amine&color=212C42" />
+    <img src="https://komarev.com/ghpvc/?username=Aniter-amine" />
   </a>
 </p>
 
