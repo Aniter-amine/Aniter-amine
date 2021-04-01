@@ -4,7 +4,7 @@
   <a href="https://github.com/Aniter-amine?tab=followers">
     <img src="https://img.shields.io/github/followers/Aniter-amine?label=Followers&logo=GitHub" />
   </a>
-  <a href="https://youtube.com/SamTheFam?sub_confirmation=1">
+  <a href="https://github.com/Aniter-amine">
     <img src="https://komarev.com/ghpvc/?username=Aniter-amine&style=for-the-badge" />
   </a>
 </p>
