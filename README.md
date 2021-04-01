@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Aniter-amine?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aniter-amine?label=Followers&logo=GitHub&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Aniter-amine?label=Followers&logo=GitHub" />
   </a>
   <a href="https://youtube.com/SamTheFam?sub_confirmation=1">
     <img src="https://komarev.com/ghpvc/?username=Aniter-amine&style=for-the-badge" />
