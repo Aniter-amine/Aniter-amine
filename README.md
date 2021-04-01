@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/SamTheFam?tab=followers">
-    <img src="https://img.shields.io/github/followers/SamTheFam?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Aniter-amine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://youtube.com/SamTheFam?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/OM-XUrnWH7o?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Aniter-amine&color=212C42" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **
 
 ## 📈 Github Stats:
 <a href="https://github.com/Aniter-amine/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark&icon_color=blue" alt="Anurag's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniter-amine&show_icons=true&include_all_commits=true&theme=dark&icon_color=blue" alt="EnimaX's github stats" />
 </a>
 <br>
 <br>
