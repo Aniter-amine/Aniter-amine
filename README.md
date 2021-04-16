@@ -9,10 +9,10 @@
   </a>
 </p>
 
-A 13 Years Old Student And Noob Devloper!! I Start Learning CS 👨‍💻 In **_17/09/2020_** And I'm In 4th Year In Middle School, And I See My Self Passionate Of Computer, Technologies And Its **_COOL_** To Code 😄 I Also:
-- 🎯 I'm Currently Learning Web-Dev
-- 💬 I Also Like Anime, Games, Memes
-- 💛 I Like Python, C, Djagno, React
+A 13 Years Old Student And Noob Developer!! I Start Learning CS 👨‍💻 In **_17/09/2020_** And I'm In 4th Year In Middle School, And I See My Self Passionate Of Computer, Technologies And Its **_COOL_** To Code 😄 I Also:
+- 🎯 Currently Learning Web-Dev
+- 💬 Like Anime, Games, Memes
+- 💛 Like Python, C, Djagno, React
 
 <br>
 <br>
